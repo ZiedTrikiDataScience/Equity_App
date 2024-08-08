@@ -1,0 +1,10 @@
+pandas
+xlsxwriter 
+openpyxl
+numpy
+seaborn 
+streamlit 
+joblib
+plotly
+openpyxl
+msal
